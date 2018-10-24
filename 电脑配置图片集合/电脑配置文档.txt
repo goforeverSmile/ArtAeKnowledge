@@ -1,0 +1,14 @@
+-----------------公司电脑配置-------------------	
+电脑型号	华硕 All Series 台式电脑
+操作系统	Windows 10 专业版 64位 ( DirectX 12 )
+	
+处理器	英特尔 第四代酷睿 i5-4460 @ 3.20GHz 四核
+主板	华硕 B85M-V5 PLUS ( 英特尔 Haswell - Lynx Point )
+内存	16 GB ( Avexir DDR3 1600MHz / Avexir DDR3L 1600MHz )
+主硬盘	金士顿 SUV400S37120G ( 120 GB / 固态硬盘 )
+显卡	Nvidia GeForce GTX 1050 ( 2 GB / 影驰 )
+显示器	冠捷 AOC2491 2491W ( 23.5 英寸  )
+声卡	瑞昱 ALC887 @ 英特尔 Lynx Point  高保真音频
+网卡	瑞昱 RTL8168/8111/8112 Gigabit Ethernet Controller / 华硕
+
+
